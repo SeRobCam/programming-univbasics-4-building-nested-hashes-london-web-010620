@@ -1,4 +1,4 @@
-
+monopoly =
 
 def base_hash
   monopoly = Hash.new
